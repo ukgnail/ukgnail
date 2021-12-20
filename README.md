@@ -19,7 +19,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![С#](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=socialg&logoColor=ffffff)
+![С#](https://img.shields.io/badge/-c#-black?logo=c%2B%2B&style=socialg&logoColor=ffffff)
+![С++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=socialg&logoColor=ffffff)
 
 #### Front-end:
 
