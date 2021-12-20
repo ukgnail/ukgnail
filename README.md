@@ -52,4 +52,8 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <hr/>
 
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ukgnail&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ukgnail.ukgnail)
+
 :star: From [@ukgnail](https://github.com/ukgnail)
