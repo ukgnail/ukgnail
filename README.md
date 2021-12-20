@@ -10,7 +10,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Nail. I'm a 20-year-old web developer and researcher from Kazakhstan.
+Hey there! :smile: My name is Nail. I'm a 2x-year-old web developer and researcher from Kazakhstan.
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:ukgnail@gmail.com) if that sounds like your cup of tea. :coffee:
 
