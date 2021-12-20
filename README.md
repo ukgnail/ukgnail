@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Nail Beisekenov! :stars:</h1>
 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nail-beisekenov/)](https://www.linkedin.com/in/nail-beisekenov/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ukgnail@gmail.com)](mailto:ukgnail@gmail.com)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)
