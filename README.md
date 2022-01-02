@@ -28,7 +28,7 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
+
 
 
 #### Back-end:
@@ -45,7 +45,6 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
