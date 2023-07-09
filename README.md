@@ -38,9 +38,3 @@
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr/>
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ukgnail&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ukgnail.ukgnail)
-
-:star: From [@ukgnail](https://github.com/ukgnail)
